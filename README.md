@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=goodjh120)](https://solved.ac/goodjh120/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=goodljh120)](https://solved.ac/goodljh120/)
 
 <!---
 Lee-JaeHyeok/Lee-JaeHyeok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
